@@ -18,21 +18,6 @@ To some extent they can construct ***more floors in same building*** 🏠	 -- th
 They can ***construct a new building right*** 🏠	🏠	 -- this resemble ***horizontal Scaling***
 
 
-## Real life Scenario
-
-👋 Hi, So before we  directly dive into technical stuff let me give you a real life scenario:
-
-
-*Suppose there is some School having one building to accomodate 500 students and they want to increase the intake of student this year.*\
-**How can they expand the infrastructure for the same?** 🤔
-
-To some extent they can construct ***more floors in same building*** 🏠	 -- this resemble ***Vertical Scaling***
-
-**But what if they want even more intake ?** 🤔 
-
-They can ***construct a new building right*** 🏠	🏠	 -- this resemble ***horizontal Scaling***
-
-
 ## Scalibility
 
 So if you have understood the above example ***Congratulate***🤩 yourself as you have understood the concept of **vertical scaling and horizontal scaling** and you don't even realized right.
