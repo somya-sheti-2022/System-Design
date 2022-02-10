@@ -43,7 +43,7 @@ Your system wont be able to handle so many request right. So here comes the conc
 ### Advantages of Vertical Scaling over  Horizontal Scaling
 
 1- ***Doesn't require a load balancer*** to distribute the request across mutiple servers.\
-2- ***Has interprocess communication*** which is more fast *( in horizontal communication is over a network. )*
+2- ***Has interprocess communication*** which is more fast *( in horizontal communication is over a network. )*\
 3- ***Data is more Consistent*** as only single system is there *( in horizontal there is a bit of data incosistency is there )*
 
 ### So what do we use in a real life system and why? 🤔
